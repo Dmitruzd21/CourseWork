@@ -16,9 +16,11 @@ https://docs.google.com/spreadsheets/d/1B2ciMi7FvBX1zQIpWhAw92t60Gvjkihaf9QgBuN0
 https://docs.google.com/spreadsheets/d/1sa1DskVUmJDRs1G8hnmCQeuYHoYIG1YAu6Rv664tREg/edit?usp=sharing
 
 **Тестирование требований:**
+
 https://docs.google.com/document/d/1dpw2LH1HNVMBDnk_W7nNGaTnbkceBNuO0Ey2qKA2rdc/edit?usp=sharing
 
 **Баг - репорты:**
+
 https://docs.google.com/spreadsheets/d/19HkS5JdXdkQqt3eT46zTsilUn1_-yH-mE8tCr750Mt0/edit?usp=sharing
 
 https://docs.google.com/spreadsheets/d/1mHA7SRxsr0OCV7r9p_gFMZGJ0J2sFdsFFgQy4E5l5Ng/edit?usp=sharing
